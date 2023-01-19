@@ -1,0 +1,10 @@
+{
+  "psvm": {
+    "prefix": "psvm",
+    "body": [
+      "public static void main(String[] args){
+    }"
+  ],
+  "description": "public static void main(String[] args){}"
+}
+}
